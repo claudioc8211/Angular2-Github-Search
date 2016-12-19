@@ -1,2 +1,6 @@
 # Angular2-Github-Search
-A github user search made with Angular2 + Bootstrap
+A simple Angular2 app for find Github user with repos
+
+INSTALL
+
+npm install
